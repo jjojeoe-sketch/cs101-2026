@@ -13,10 +13,10 @@ int main() {
             break;
         case 'D':
         case 'F':
-            printf("Better try again!"\n);
+            printf("Better try again!\n");
             break;
         default:
-            printf("Invali grade"\n);
+            printf("Invali grade\n");
     }
     return 0;
 }
